@@ -1,0 +1,19 @@
+{
+  "name": "devtools",
+  "version": "1.0.0",
+  "description": "redux devtools exmaple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attilakeller/devtools.git"
+  },
+  "author": "Attila Keller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attilakeller/devtools/issues"
+  },
+  "homepage": "https://github.com/attilakeller/devtools#readme"
+}
